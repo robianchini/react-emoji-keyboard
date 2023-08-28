@@ -2,6 +2,8 @@
 
 An emoji keyboard component for ReactJS.
 
+![Novo Projeto (10)](https://github.com/robianchini/react-emoji-keyboard/assets/35143346/0f4030cc-6ef3-483f-ab07-a366328fd369)
+
 
 
 ## Installation
@@ -41,13 +43,20 @@ function App() {
 
 ````
 
+## Features
+
+- 🌙 Dark theme
+- 🎨 Customizable
+- 🖱️ Customizable click handler
+
+
 ## Props
 
 | Prop                   | Type              | Default    | Description                                                                                                                                |
 | ---------------------- | ----------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | searchDisabled           | boolean          | false           |Show/hide emoji search bar |
 | categoryDisabled           | boolean          | false           |Show/hide emoji categories |
-| searchLabel           | string          | false           |Change the emoji search input label |
+| searchLabel           | string          | Procurar emoji           |Change the emoji search input label |
 | onEmojiSelect           | function          | false           |Function executed when an emoji is selected |
 | theme           | "ligh", "dark"          | "light"           |Sets the emoji keyboard theme |
 | width           | number          | 320           |Sets the emoji keyboard width  |
