@@ -1,6 +1,6 @@
 {
   "name": "reactjs-emoji-keyboard",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "type": "module",
   "types": "types/reactjs-emoji-keyboard.d.ts",
   "scripts": {
